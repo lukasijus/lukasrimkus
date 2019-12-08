@@ -33,6 +33,7 @@ module.exports = {
         cookieDomain: "lukasrimkus.com",
       },
     },
+    /*
     {
       resolve: "gatsby-plugin-google-tagmanager2",
       options: {
@@ -53,6 +54,7 @@ module.exports = {
         //dataLayerName: "YOUR_DATA_LAYER_NAME",
       },
     },
+    */
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
